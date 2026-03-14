@@ -27,7 +27,7 @@ A comprehensive, production-ready Jupyter Notebook pipeline for *in vivo* spike 
 ### Pipeline Visualizations
 
 <p align="center">
-  <img src="SpikeInterface-Pipeline/Exports_examples/SpikeInterface GUI.jpg" alt="SpikeInterface GUI" width="700">
+  <img src="SpikeInterface-Pipeline/Exports_examples/SpikeInterface GUI.jpeg" alt="SpikeInterface GUI" width="700">
 </p>
 
 <p align="center">
