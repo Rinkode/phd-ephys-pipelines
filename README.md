@@ -23,3 +23,17 @@ A comprehensive, production-ready Jupyter Notebook pipeline for *in vivo* spike 
     * Automated preprocessing (filtering, referencing, stimulation artifact removal via chunking).
     * Integration with state-of-the-art sorters (e.g., Kilosort 4).
     * Waveform extraction, quality metrics computation, and semi-automated curation preparation for SpikeInterface GUI or Phy.
+
+### Pipeline Visualizations
+
+<p align="center">
+  <img src="SpikeInterface-Pipeline/Exports_examples/SpikeInterface GUI.jpg" alt="SpikeInterface GUI" width="700">
+</p>
+
+<p align="center">
+  <img src="SpikeInterface-Pipeline/Exports_examples/Multi-unit template metrics display.jpg" alt="Template Metrics" width="700">
+</p>
+
+<p align="center">
+  <img src="SpikeInterface-Pipeline/Exports_examples/Rasterplot of curated good units.png" alt="Rasterplot" width="700">
+</p>
