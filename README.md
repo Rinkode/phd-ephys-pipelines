@@ -16,6 +16,10 @@ A custom Python pipeline designed to detect and analyze high-frequency oscillato
     * Custom modification of existing burst detection algorithms to fit specific experimental constraints.
     * Advanced statistical modeling of burst features using Generalized Estimating Equations (GEE) via `statsmodels`.
 
+<p align="center">
+  <img src="Superlet-Burst-Detection/Superlet burst detection pipeline.png" alt="Superlet burst detection pipeline" width="700">
+</p>
+
 ### 2. [SpikeInterface_Pipeline](./SpikeInterface-Pipeline)
 A comprehensive, production-ready Jupyter Notebook pipeline for *in vivo* spike sorting and post-processing, utilizing the **SpikeInterface** framework. 
 
