@@ -14,7 +14,7 @@ A custom Python pipeline designed to detect and analyze high-frequency oscillato
 * **Key Features:**
     * Time-frequency analysis using Superlets.
     * Custom modification of existing burst detection algorithms to fit specific experimental constraints.
-    * Advanced statistical modeling of burst features using Generalized Estimating Equations (GEE) via `statsmodels`.
+    * Advanced statistical modeling of burst features including Generalized Estimating Equations (GEE) via `statsmodels`.
 
 <p align="center">
   <img src="Superlet-Burst-Detection/Superlet burst detection pipeline.png" alt="Superlet burst detection pipeline" width="700">
